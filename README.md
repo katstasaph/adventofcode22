@@ -1,2 +1,1 @@
-# adventofcode22
-advent of code solutions, 2022
+My solutions to [2022's Advent of Code](https://adventofcode.com/). This year I am using JavaScript.
